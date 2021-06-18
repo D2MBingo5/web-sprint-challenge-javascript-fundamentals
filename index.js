@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+// nested function can access the variable internal because of scope. Functions can pull data like variables in from outside of its scope, but cannot push data in their scope out to the rest of the program. If nested function had a variable declared inside of it, my function would not be able to access it.
 
 
 
